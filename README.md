@@ -17,7 +17,7 @@ pull.on('refresh', function () {
 
 ## preview
 > * [click here](https://yangyuji.github.io/pull-down-banner/demo.html)
-> * ![qrcode](https://github.com/yangyuji/pull-down-banner/blob/master/qrcode.png)
+> * ![qrcode](https://github.com/yangyuji/pull-down-banner/blob/master/qrcode.gif)
 
 ## License
 > * copyright(c) 2018 oujizeng Licensed under MIT license.
